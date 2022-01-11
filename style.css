@@ -1,0 +1,45 @@
+.bg{
+    background-image: url("411503.jpg");
+    background-position: center;
+}
+
+.txt{
+    color: blue;
+}
+.speed{
+float: left;
+}
+
+.disk{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#speed_answer{
+ margin: 15px;
+}
+
+.volume{
+    float: right;
+}
+
+.disk_2{
+    width: 150px;
+    border-radius: 100px; 
+}
+
+#volume_answer{
+    margin: 15px;
+}
+
+#play_button{
+    background-color: purple;
+    color: black;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+canvas{
+    border: 7px solid orangered;
+}
